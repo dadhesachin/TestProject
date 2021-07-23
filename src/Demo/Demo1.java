@@ -7,9 +7,9 @@ public class Demo1
 	{
 		System.out.println("Welcome to VCS GIT-GITHUB");
 		
-		System.out.println();
 		
 		System.out.println("Thank you");
+		System.out.println("Completed");
 	}
 
 }
